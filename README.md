@@ -11,8 +11,8 @@ Based on testing, the mod works as intended. However, it **may also hide other w
 
 ### Explanation
 Apparently the popup window has this properites:
-- className = "Chrome_WidgetWin_1"
-- GWL_STYLE with flags: WS_POPUP  (GWL_STYLE value is: 0x86000000)
-- GWL_EXSTYLE with flags: WS_EX_TOOLWINDOW, WS_EX_NOACTIVATE, WS_EX_TOPMOST, WS_EX_TRANSPARENT  (GWL_EXSTYLE value is: 0x80000a8)
+- `className` = `"Chrome_WidgetWin_1"`
+- `GWL_STYLE` with flags: `WS_POPUP`  (value is: `0x86000000`)
+- `GWL_EXSTYLE` with flags: `WS_EX_TOOLWINDOW`, `WS_EX_NOACTIVATE`, `WS_EX_TOPMOST`, `WS_EX_TRANSPARENT`  (value is: `0x80000a8`)
   
 It is quite unlikely but if another window has the same properties, it will be hidden as well
