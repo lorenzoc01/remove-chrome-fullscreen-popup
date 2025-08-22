@@ -10,5 +10,3 @@ A simple Windhawk mod to remove the persistent “TO EXIT FULLSCREEN PRESS ESC/F
 Based on testing, the mod works as intended. However, it **may also hide other windows** that share similar properties with the popup.
 
 Check the code for more details.
-
-[Github Repo](https://github.com/lorenzoc01/remove-chrome-fullscreen-popup)
