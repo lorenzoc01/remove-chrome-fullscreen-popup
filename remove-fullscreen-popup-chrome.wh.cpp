@@ -1,4 +1,4 @@
-// ==WindhawkMod==
+// ==WindhawkMod== 
 // @id              remove-fullscreen-popup-chrome
 // @name            Remove "Exit Fullscreen" popup in Chrome
 // @description     Removes “TO EXIT FULLSCREEN PRESS ESC/F11” popup in Chrome/Opera/OperaGX/Edge/Brave
@@ -83,4 +83,5 @@ void Wh_ModUninit(void)
 {
     Wh_Log(L"Mod Uninit");
 }
+
 
