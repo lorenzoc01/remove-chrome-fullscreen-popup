@@ -1,6 +1,6 @@
-# Remove "Exit Fullscreen" popup in Chrome/Opera/OperaGX/Edge/Brave
+# Remove "Exit Fullscreen" popup in Chrome/Opera/OperaGX/Edge/Brave/Comet
 
-A simple [Windhawk](https://windhawk.net) mod to remove the annoying “TO EXIT FULLSCREEN PRESS ESC/F11” popup in Chromium-based browsers like Chrome, Opera, OperaGX, Edge and Brave.
+A simple [Windhawk](https://windhawk.net) mod to remove the annoying “TO EXIT FULLSCREEN PRESS ESC/F11” popup in Chromium-based browsers like Chrome, Opera, OperaGX, Edge, Brave and Comet.
 
 ![Chrome](screenshots/chrome.png)
 ![OperaGX](screenshots/operagx.png)
