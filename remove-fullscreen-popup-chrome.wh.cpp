@@ -9,6 +9,7 @@
 // @include         chrome.exe
 // @include         msedge.exe
 // @include         brave.exe
+// @include         comet.exe
 // @compilerOptions -lgdi32
 // ==/WindhawkMod==
 
@@ -83,5 +84,3 @@ void Wh_ModUninit(void)
 {
     Wh_Log(L"Mod Uninit");
 }
-
-
