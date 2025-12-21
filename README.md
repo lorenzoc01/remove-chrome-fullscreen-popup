@@ -41,3 +41,12 @@ Apparently the popup window has this properites:
 It is quite unlikely but if another window has the same properties, it will be hidden as well
 
 
+## Installation
+
+This mod uses **Windhawk** to run. To install it:
+
+1. Download and install [Windhawk](https://windhawk.net)
+2. In Windhawk, under the "Explore" tab, search for the mod
+3. Install it and make sure it is enabled
+4. Launch a supported browser and go fullscreen
+5. Now the popup should be hidden!
