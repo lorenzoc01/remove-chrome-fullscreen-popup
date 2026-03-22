@@ -13,6 +13,7 @@
 // @include         Maxthon.exe
 // @include         whale.exe
 // @include         aloha.exe
+// @include         thorium.exe
 // @compilerOptions -lgdi32
 // ==/WindhawkMod==
 
