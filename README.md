@@ -18,6 +18,7 @@ Supported:
 - Naver Whale
 - Aloha
 - Comet
+- Thorium
 
 Unsupported (not working):
 - Vivaldi
