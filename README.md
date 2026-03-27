@@ -9,7 +9,7 @@ A simple [Windhawk](https://windhawk.net) mod to remove the annoying “TO EXIT 
 
 Here's a list of the browsers I tested.
 
-Supported:
+Supported browsers:
 - Google Chrome
 - Microsoft Edge
 - Opera/OperaGX
@@ -19,15 +19,12 @@ Supported:
 - Aloha
 - Comet
 - Thorium
-
-Unsupported (not working):
+  
+Known unsupported browsers:
 - Vivaldi
 - Yandex
-
-
-The mod might work with other browsers. If you want to test it, you can add the executable name in the mod includes:
-
-`// @include         chrome.exe`
+  
+The mod might work with other browsers. If you want to test it, you can add the executable name (like "yourbrowser.exe") in the "Custom process inclusion list" in the "Advanced" tab of the mod.
 
 ## ⚠ Important
 
